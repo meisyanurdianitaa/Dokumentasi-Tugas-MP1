@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Minstagram</string>
+    <string name="postingan">Postingan</string>
+    <string name="pengikut">Pengikut</string>
+    <string name="diikuti_oleh">Diikuti oleh</string>
+    <string name="mengikuti">Mengikuti</string>
+    <string name="rendy_putra_ap_itmyebluw_dan">rendy_putra_ap,itmyebluw,dan</string>
+    <string name="_0">0</string>
+    <string name="_3_550">3.550</string>
+    <string name="_1_733">1.733</string>
+    <string name="meisyaanrdnt">meisyaanrdnt</string>
+    <string name="mesa">Mesa</string>
+    <string name="_27_lainnya">27 lainnya.</string>
+    <string name="kirim_pesan">Kirim Pesan</string>
+    <string name="ikuti">Ikuti</string>
+    <string name="email">Email</string>
+</resources>
